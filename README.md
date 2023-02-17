@@ -92,6 +92,9 @@
 * 🖼  [NFT Marketplace Protocol](https://izineynftmarket.vercel.app)
 * ⚖️ [DA0 Protocol](https://izineydao.vercel.app)
 
+## 💻 Projects AI - Demo
+* 🪄 [Unlock Magic Writing: GPT Assistant]([https://umw-gpt3-writer-production.up.railway.app/])
+
 ## 💼 [Portfolio](https://joevidev.github.io/)
 
 ---
@@ -103,7 +106,7 @@
 <a href="https://discord.com/jusersx">
   <img alt="" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/joevid7">
+<a href="https://twitter.com/joev1d">
   <img alt="" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <!-- <a href="https://www.linkedin.com/in/">
