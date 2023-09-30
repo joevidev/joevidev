@@ -7,11 +7,11 @@
 
 ### 😎 &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;🔭 &nbsp;I'm currently working as a Blockchain Developer. \
+&nbsp;&nbsp;&nbsp;🔭 &nbsp;I'm currently working as a Software Engineer. \
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;I'm currently in the process of financing my startup. \
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Love for science, tech, blockchain and innovation.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Love for science, tech, AI, blockchain and innovation.\
 &nbsp;&nbsp;&nbsp;😄 &nbsp;Passionate about solving problems and automating daily routines with cutting-edge technology.\
-&nbsp;&nbsp;&nbsp;👯 &nbsp;I’m looking to collaborate in the blockchain and tech ecosystem with innovative and scalable solutions.\
+&nbsp;&nbsp;&nbsp;👯 &nbsp;I’m looking to collaborate in the AI, blockchain and tech ecosystem with innovative and scalable solutions.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2015 with 8+ years of experience in enterprise wide software development and tech.\
 &nbsp;&nbsp;&nbsp;📫 &nbsp;How to reach me: Mail, Social Networks. \
 &nbsp;&nbsp;&nbsp;👨🏻‍🎓 &nbsp;Graduated in Computing and Informatics. \
